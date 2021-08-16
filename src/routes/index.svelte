@@ -1,2 +1,9 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Latihan SvelteKit</h1>
+<ol>
+	<li><a href="/get">Get</a></li>
+	<li><a href="/post">Post</a></li>
+</ol>
+
+<svelte:head>
+	<title>Latihan SvelteKit</title>
+</svelte:head>
